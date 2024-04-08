@@ -1,0 +1,9 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Syed Mohammad Miras Ahmadi",
+    "short_name": "Mohammad Miras",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#171717",
+    "description": "I am an interdisciplinary developer. I have experience working with professional teams in the fields of front-end and back-end. My main expertise is in the field of back-end"
+}
