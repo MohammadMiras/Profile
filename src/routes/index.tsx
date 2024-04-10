@@ -4,13 +4,6 @@ import ContactUs from "~/components/ContactUs";
 import Header from "~/components/Header";
 import Hero from "~/components/Hero"
 import Skills from "~/components/Skills"
-import { routeLoader$ } from '@builder.io/qwik-city';
-
-export const useFormLoader = routeLoader$(() => ({
-    email: '',
-    name: '',
-    message: ''
-}));
 
 export default component$(() => {
     return (
