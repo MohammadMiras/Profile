@@ -2,14 +2,14 @@ import { component$ } from "@builder.io/qwik";
 
 const AboutUs = component$(() => {
 
-    return <section class="max-w-7xl lg:max-w-7xl p-5 py-12 mx-auto text-gray-200 text-center">
+    return <section class="max-w-7xl lg:max-w-7xl p-5 py-16 mx-auto text-gray-200 text-center">
         <h3 class="md:text-2xl text-xl font-medium tracking-widest capitalize ">About Us</h3>
         <h2 class="md:text-5xl text-3xl font-bold text-custom-color2 capitalize py-5">Mohammad Miras</h2>
-        <div class="w-full grid lg:grid-cols-2 gap-16 lg:gap-5 mt-10">
-            <div class="flex flex-col justify-center gap-5 text-justify text-gray-200 px-5 xl:text-xl text-lg">
-                <p class="text-custom-color2 font-bold xl:text-2xl text-xl">Welcome, I am Syed Mohammad Miras Ahmadi a full stack developer</p>
-                <p>My passion is to design creative and complex systems and I am very interested in growing in all work and personal fields.</p>
-                <p class="text-base ">you can download my resume from the link below</p>
+        <div class="w-full grid lg:grid-cols-2 gap-20 lg:gap-5 mt-10">
+            <div class="flex flex-col justify-center gap-10 lg:gap-6 text-justify text-gray-200 px-5 xl:text-xl text-lg">
+                <p class="text-custom-color2 font-bold text-3xl lg:text-2xl leading-[3rem] lg:leading-0">Welcome,I am Syed Mohammad Miras Ahmadi a full stack developer</p>
+                <p class="text-3xl leading-[5rem] lg:text-xl lg:leading-8">My passion is to design creative and complex systems and I am very interested in growing in all work and personal fields.</p>
+                <p class="text-xl lg:text-base">you can download my resume from the link below</p>
                 <div class="flex gap-5 mt-5">
 
                     <a
