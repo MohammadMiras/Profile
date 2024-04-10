@@ -1,5 +1,5 @@
 import { component$ } from "@builder.io/qwik";
-import FormContact from "./FormContact";
+// import FormContact from "./FormContact";
 import GitHubIcon from "./Icons/GitHub";
 import StackOverflowIcon from "./Icons/StackOverflow"
 import TelegramIcon from "./Icons/Telegram";
