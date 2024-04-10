@@ -3,8 +3,8 @@ import { component$ } from "@builder.io/qwik";
 const AboutUs = component$(() => {
 
     return <section class="max-w-7xl lg:max-w-7xl p-5 py-16 mx-auto text-gray-200 text-center">
-        <h3 class="md:text-2xl text-xl font-medium tracking-widest capitalize ">About Us</h3>
-        <h2 class="md:text-5xl text-3xl font-bold text-custom-color2 capitalize py-5">Mohammad Miras</h2>
+        <h3 class="lg:text-2xl text-xl font-medium tracking-widest capitalize ">About Us</h3>
+        <h2 class="lg:text-5xl text-3xl font-bold text-custom-color2 capitalize py-5">Mohammad Miras</h2>
         <div class="w-full grid lg:grid-cols-2 gap-20 lg:gap-5 mt-10">
             <div class="flex flex-col justify-center gap-10 lg:gap-6 text-justify text-gray-200 px-5 xl:text-xl text-lg">
                 <p class="text-custom-color2 font-bold text-3xl lg:text-2xl leading-[3rem] lg:leading-0">Welcome,I am Syed Mohammad Miras Ahmadi a full stack developer</p>
